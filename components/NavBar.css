@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: gray;
+}
+
+.navbar-left {
+  flex: 50%;
+}
+
+.navbar-right {
+  flex: 50%;
+}
+
+.navbar-right ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar-right ul li {
+  list-style: none;
+}

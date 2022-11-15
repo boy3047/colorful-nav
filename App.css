@@ -1,0 +1,8 @@
+.app {
+  /* max-height: 100%; */
+  height: 100vh;
+}
+
+.app.dark {
+  background-color: #333;
+}
